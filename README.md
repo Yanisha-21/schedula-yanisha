@@ -8,7 +8,6 @@ This repository contains my Day 1 Backend Internship submission. The project was
 
 * NestJS
 * TypeScript
-* PostgreSQL (Database Design)
 * Git
 * GitHub
 * Draw.io (ER Diagram)
